@@ -1,5 +1,5 @@
-# Hello World Example
+# LAB1_Q1_816022781
 
-Starts a FreeRTOS task to print "Hello World"
-
-See the README.md file in the upper level 'examples' directory for more information about examples.
+In question 1, the message was replaced with my full name and ID number.
+The last two digits of my ID number which is 81 was divided by 17. The remainder, 13 
+was used as the countdown to restart the program.
